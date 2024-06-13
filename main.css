@@ -1,11 +1,3 @@
-.aceptar {
-    background-color: rgb(19, 75, 188)
-}
-
-.error {
-    background-color: red;
-}
-
-.btn-warning-white-text {
-    color: white !important;
+* {
+    background-color: transparent;
 }
